@@ -46,7 +46,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-<<<<<<< HEAD
     "grunt": "~0.4.5",
     "js2coffee": "^0.3.1"
   },
@@ -71,8 +70,4 @@
   "_shasum": "13861cba07bffe5f65d24bf0eb278261ce9b52b7",
   "_resolved": "https://registry.npmjs.org/grunt-translate-compile/-/grunt-translate-compile-0.1.6.tgz",
   "readme": "ERROR: No README data found!"
-=======
-    "grunt": "~0.4.5"
-  }
->>>>>>> 38d4a8369037fcffab28cae984ec6456d586d4f4
 }
